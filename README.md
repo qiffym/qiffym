@@ -4,13 +4,13 @@
 
 <h1 align="center">Qiff Ya Muhammad</h1>
 <p align="center">
-  <b>Full-stack Web Developer</b> · Laravel + React/Next.js · Malang, Indonesia
+  <b>Full-stack Web Developer</b> · Laravel + React/Next.js · Jakarta, Indonesia
 </p>
 
 <p align="center">
   <a href="https://qiffym.vercel.app"><img src="https://img.shields.io/badge/Website-qiffym.vercel.app-2563EB?style=flat-square&logo=vercel&logoColor=white" alt="Website"></a>
-  <a href="REPLACE_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:REPLACE_EMAIL"><img src="https://img.shields.io/badge/Email-Say%20hello-2563EB?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/qiff-ya-muhammad-710a06191/"><img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:qiffyamuhammad11@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-2563EB?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://github.com/qiffym"><img src="https://img.shields.io/badge/GitHub-@qiffym-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
@@ -103,8 +103,8 @@ Saya seorang full-stack web developer dari Malang, Indonesia. Saya membangun apl
 ### 📬 Get in touch
 
 - 🌐 Website: [qiffym.vercel.app](https://qiffym.vercel.app)
-- 💼 LinkedIn: [Connect with me](REPLACE_LINKEDIN_URL)
-- ✉️ Email: [REPLACE_EMAIL](mailto:REPLACE_EMAIL)
+- 💼 LinkedIn: [[Connect with me](https://www.linkedin.com/in/qiff-ya-muhammad-710a06191/)https://www.linkedin.com/in/qiff-ya-muhammad-710a06191/](REPLACE_LINKEDIN_URL)
+- ✉️ Email: [qiffyamuhammad11@gmail.com](mailto:REPLACE_EMAIL)
 - 📍 Malang, Indonesia · **Available for freelance & full-time** / **Terbuka untuk freelance & full-time**
 
 <p align="center"><sub>Thanks for visiting — feel free to star a project or reach out. · Terima kasih sudah mampir — silakan star proyek saya atau hubungi saya.</sub></p>
