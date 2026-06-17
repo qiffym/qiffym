@@ -103,7 +103,7 @@ Saya seorang full-stack web developer dari Malang, Indonesia. Saya membangun apl
 ### 📬 Get in touch
 
 - 🌐 Website: [qiffym.vercel.app](https://qiffym.vercel.app)
-- 💼 LinkedIn: [[Connect with me](https://www.linkedin.com/in/qiff-ya-muhammad-710a06191/)https://www.linkedin.com/in/qiff-ya-muhammad-710a06191/](REPLACE_LINKEDIN_URL)
+- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/qiff-ya-muhammad-710a06191/)
 - ✉️ Email: [qiffyamuhammad11@gmail.com](mailto:REPLACE_EMAIL)
 - 📍 Malang, Indonesia · **Available for freelance & full-time** / **Terbuka untuk freelance & full-time**
 
